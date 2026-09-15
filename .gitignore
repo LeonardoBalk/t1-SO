@@ -1,0 +1,6 @@
+*.o
+*.exe
+*.mob
+simulador_completo/bin/
+compilador_c/bin/
+T1/bin/
